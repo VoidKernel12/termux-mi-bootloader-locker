@@ -30,7 +30,7 @@ This project follows the same layout and conventions as **termux-image-dumper**.
 You need:
 
 1. [Termux (F-Droid)](https://f-droid.org/en/packages/com.termux/)
-2. [Termux:API (F-Droid)](https://f-droid.org/en/packages/com.termux.api/)
+2. [Termux:API (github)](https://github.com/termux/termux-api)
 3. A USB-OTG adapter
 4. The target Xiaomi / Redmi / Poco device in **fastboot** mode
 5. An already **unlocked** bootloader (you cannot lock what was never unlocked)
